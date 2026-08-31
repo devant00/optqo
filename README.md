@@ -1,6 +1,6 @@
 # Optqo
 
-**Optqo** is the parent company behind two software products. I am Anthony, the founder, sole owner, and only human engineer. **Optqo Framework s.r.o.** is the registered company behind both products.
+**Optqo Framework s.r.o** is the parent company behind two software products. I am Anthony, the founder, sole owner, and only human engineer.
 
 Each product has its own brand and private repository. They share one engineering platform, one set of conventions, and one person responsible for keeping them running.
 
