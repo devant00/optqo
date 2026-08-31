@@ -1,4 +1,4 @@
-# Optqo
+# DevAnt
 
 **Optqo Framework s.r.o** is the parent company behind two software products. I am Anthony, the founder, sole owner, and only human engineer.
 
